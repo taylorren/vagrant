@@ -1,7 +1,5 @@
 ##README
 
-This repository contains a few shell scripts to provision a vagrant machine. 
+This repository contains my customized Vagrantfile based on [https://github.com/fideloper/Vaprobash](https://github.com/fideloper/Vaprobash) but much shorter and focuses only on LAMP, Composer, PHPUnit, which are essential for Symfony setup.  
 
-It helps to install:
-
-* curl 
+ 
